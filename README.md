@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi, I'm Miguel </b><img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/hello.webp?alt=media&token=da2e5c08-9b3a-4ba4-9b22-605274e12cbd"></h1>
 <h3 align="center">True passion for full stack development and technology solutions following clean code practices. I am also passionate about AI tools in projects</h3>
 
