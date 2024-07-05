@@ -5,8 +5,6 @@
 
 ## <picture><img src = "https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/code.webp?alt=media&token=adb707f0-a00a-405c-817a-61be29b00f8a"></picture> **A little bit About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br/>
 
 - 🤓 I’m currently improving my skills in **Swift and SwiftUI, Python and Django, Node.js and MongoDB**
@@ -17,7 +15,7 @@
   > **gutierrezmayamiguelangel@gmail.com**
 
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## **Let's Connect..!** <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/handshake.gif?alt=media&token=5cb4a4f8-25b7-4ae8-860a-b6a15ae6f23b">
 <div align='left'>
   <br/>
   <a href="https://www.linkedin.com/in/miguel-gutierrez-maya-918461164/" target="blank">
@@ -26,7 +24,10 @@
   <br>
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b>
+<br />
+
+## **Languages and Tools:** <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/code-icon.webp?alt=media&token=74424b1d-8f8d-4e75-9b66-60120709ed3f" width="25" />
+
 <br />
 
 <!--
