@@ -29,7 +29,7 @@
 
 <p align="left">
   <a href="https://angularjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/angular.svg?alt=media&token=11493aa3-78d1-490a-b9d4-78ffaaa4f3c3" alt="Angular" width="40" height="40"/>
+    <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/angular.webp?alt=media&token=88555418-00ab-4aa8-ae4c-dfcf02c5c279" alt="Angular" width="40" height="40"/>
   </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/react.svg?alt=media&token=80b169ef-8185-4e4c-9525-c2405738f10e" alt="React" width="40" height="40"/>
