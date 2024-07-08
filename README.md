@@ -44,10 +44,10 @@
     <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/flutter.webp?alt=media&token=49347d69-d77a-401d-a9a0-89190f05129b" alt="flutter" width="40" height="40"/>
   </a>
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/kotlin.avif?alt=media&token=bdd34bac-3c7a-43ca-9ed8-970001e652b2" alt="Kotlin" width="40" height="40"/>
+    <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/kotlin.webp?alt=media&token=96bf5108-b1f3-48e4-a950-95ac78a797ee" alt="Kotlin" width="40" height="40"/>
   </a>
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-    <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/swift.avif?alt=media&token=0785d991-538f-4f4b-a910-d27bd805c4bf" alt="Swift" width="40" height="40"/>
+    <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/swift.webp?alt=media&token=fb7524d3-0eae-457d-be98-d715fe46fd88" alt="Swift" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
     <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/nodejs.avif?alt=media&token=7781c429-78c4-4be1-af46-dc1a26fff243" alt="Node.js" width="40" height="40"/>
@@ -56,7 +56,7 @@
     <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/python.avif?alt=media&token=d0a4417a-fdaa-42dd-8ff5-0a393e30ed58" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://www.php.net/manual/es/intro-whatis.php" target="_blank" rel="noreferrer"> 
-    <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/php.svg?alt=media&token=4bf0d064-a5ac-4380-80df-3e687e0258b9" alt="Php" width="40" height="40"/>
+    <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/php.webp?alt=media&token=5857db9c-c28f-4ac9-b458-ce5399cfb5de" alt="Php" width="40" height="40"/>
   </a>
 </p>
 
