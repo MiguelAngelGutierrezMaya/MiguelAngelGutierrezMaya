@@ -32,16 +32,16 @@
     <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/angular.webp?alt=media&token=88555418-00ab-4aa8-ae4c-dfcf02c5c279" alt="Angular" width="40" height="40"/>
   </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/react.svg?alt=media&token=80b169ef-8185-4e4c-9525-c2405738f10e" alt="React" width="40" height="40"/>
+    <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/react.webp?alt=media&token=c97b2b52-4ceb-45a3-9b20-7ad2f453302f" alt="React" width="40" height="40"/>
   </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/vuejs.avif?alt=media&token=1372e072-6247-42a3-be32-95084b51b921" alt="VueJs" width="40" height="40"/>
+    <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/vuejs.webp?alt=media&token=b322f4fd-c249-4b7f-a46d-49f8cf29920d" alt="VueJs" width="40" height="40"/>
   </a>
   <a href="https://astro.build/" target="_blank" rel="noreferrer">
-    <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/astro.svg?alt=media&token=a615ebfd-af99-43bc-b092-3cfd29546203" alt="Astro" width="40" height="40"/>
+    <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/astro.webp?alt=media&token=953220a9-24f8-43d3-8933-7ae213217d86" alt="Astro" width="40" height="40"/>
   </a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/flutter.svg?alt=media&token=4c49ff0d-c8c5-455f-bd99-ee3298ac0e56" alt="flutter" width="40" height="40"/>
+    <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/flutter.webp?alt=media&token=49347d69-d77a-401d-a9a0-89190f05129b" alt="flutter" width="40" height="40"/>
   </a>
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
     <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/kotlin.avif?alt=media&token=bdd34bac-3c7a-43ca-9ed8-970001e652b2" alt="Kotlin" width="40" height="40"/>
