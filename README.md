@@ -50,10 +50,10 @@
     <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/swift.webp?alt=media&token=fb7524d3-0eae-457d-be98-d715fe46fd88" alt="Swift" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
-    <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/nodejs.avif?alt=media&token=7781c429-78c4-4be1-af46-dc1a26fff243" alt="Node.js" width="40" height="40"/>
+    <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/node.webp?alt=media&token=27651617-f6b8-4570-8e57-7ea8072254d2" alt="Node.js" width="40" height="40"/>
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/python.avif?alt=media&token=d0a4417a-fdaa-42dd-8ff5-0a393e30ed58" alt="Python" width="40" height="40"/>
+    <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/python.webp?alt=media&token=4debdd6c-89b8-4c60-9d1e-96d2ad1d189d" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://www.php.net/manual/es/intro-whatis.php" target="_blank" rel="noreferrer"> 
     <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/php.webp?alt=media&token=5857db9c-c28f-4ac9-b458-ce5399cfb5de" alt="Php" width="40" height="40"/>
