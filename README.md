@@ -12,8 +12,8 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Gutierrez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-gutierrez-maya-918461164)
 [![Twitter](https://img.shields.io/badge/Twitter-@MiguelA20878385-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MiguelA20878385)
-[![Email](https://img.shields.io/badge/Email-gutierrezmayamiguelangel@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gutierrezmayamiguelangel@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-ten-azure-33.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-miguel.gutierrez@migudev.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguel.gutierrez@migudev.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-migudev.com-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://migudev.com)
 
 </div>
 
@@ -29,6 +29,8 @@ const miguel = {
   passion: ["Clean Code", "AI/ML", "Mobile Development", "Cloud Architecture"],
   currentlyLearning: ["Swift & SwiftUI", "Python & Django", "Node.js & MongoDB"],
   askMeAbout: ["React", "Angular", "Vue", "Python", "Flutter", "Node.js", "Swift", "Kotlin"],
+  website: "https://migudev.com",
+  email: "miguel.gutierrez@migudev.com",
   funFact: "I love integrating AI tools into my projects! 🤖"
 };
 ```
@@ -76,7 +78,7 @@ const miguel = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelAngelGutierrezMaya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=MiguelAngelGutierrezMaya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🏆 Featured Projects
