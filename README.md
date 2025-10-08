@@ -1,76 +1,146 @@
-<h1 align="center">Hi, I'm Miguel </b><img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/hello.webp?alt=media&token=da2e5c08-9b3a-4ba4-9b22-605274e12cbd"></h1>
-<h3 align="center">True passion for full stack development and technology solutions following clean code practices. I am also passionate about AI tools in projects</h3>
+# Hi there, I'm Miguel Angel 👋
 
-## **A little bit About me** <picture><img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/code.webp?alt=media&token=adb707f0-a00a-405c-817a-61be29b00f8a" width="35" /></picture>
-
-<br/>
-
-- 🤓 I’m currently improving my skills in **Swift and SwiftUI, Python and Django, Node.js and MongoDB**
-
-- 💬 Ask me about **React.js Angular.js Vue.js Python Flutter Node.js Swift Kotlin SQL**
-
-- 📫 How to reach me
-  > **gutierrezmayamiguelangel@gmail.com** <br/>
-  > **https://x.com/MiguelA20878385**
-
-
-## **Let's Connect..!** <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/handshake.gif?alt=media&token=5cb4a4f8-25b7-4ae8-860a-b6a15ae6f23b" width="45" />
-<div align='left'>
-  <br/>
-  - https://www.linkedin.com/in/miguel-gutierrez-maya-918461164
-  <br/>
+<div align="center">
+  <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/hello.webp?alt=media&token=da2e5c08-9b3a-4ba4-9b22-605274e12cbd" alt="Hello" width="50"/>
 </div>
 
-<br />
-
-## **Languages and Tools:** <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/code-icon.webp?alt=media&token=74424b1d-8f8d-4e75-9b66-60120709ed3f" width="35" />
-
-<br />
-
-<p align="left">
-  <a href="https://angularjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/angular.webp?alt=media&token=88555418-00ab-4aa8-ae4c-dfcf02c5c279" alt="Angular" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/react.webp?alt=media&token=c97b2b52-4ceb-45a3-9b20-7ad2f453302f" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/vuejs.webp?alt=media&token=b322f4fd-c249-4b7f-a46d-49f8cf29920d" alt="VueJs" width="40" height="40"/>
-  </a>
-  <a href="https://astro.build/" target="_blank" rel="noreferrer">
-    <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/astro.webp?alt=media&token=953220a9-24f8-43d3-8933-7ae213217d86" alt="Astro" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/flutter.webp?alt=media&token=49347d69-d77a-401d-a9a0-89190f05129b" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/kotlin.webp?alt=media&token=96bf5108-b1f3-48e4-a950-95ac78a797ee" alt="Kotlin" width="40" height="40"/>
-  </a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-    <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/swift.webp?alt=media&token=fb7524d3-0eae-457d-be98-d715fe46fd88" alt="Swift" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
-    <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/node.webp?alt=media&token=27651617-f6b8-4570-8e57-7ea8072254d2" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/python.webp?alt=media&token=4debdd6c-89b8-4c60-9d1e-96d2ad1d189d" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net/manual/es/intro-whatis.php" target="_blank" rel="noreferrer"> 
-    <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/php.webp?alt=media&token=5857db9c-c28f-4ac9-b458-ce5399cfb5de" alt="Php" width="40" height="40"/>
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Clean+Code+Advocate;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
-<!--
-**MiguelAngelGutierrezMaya/MiguelAngelGutierrezMaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Gutierrez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-gutierrez-maya-918461164)
+[![Twitter](https://img.shields.io/badge/Twitter-@MiguelA20878385-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MiguelA20878385)
+[![Email](https://img.shields.io/badge/Email-gutierrezmayamiguelangel@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gutierrezmayamiguelangel@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-ten-azure-33.vercel.app/)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+```typescript
+const miguel = {
+  location: "Palmira, Valle del Cauca, Colombia 🇨🇴",
+  role: "Full Stack Developer",
+  experience: "5+ years",
+  passion: ["Clean Code", "AI/ML", "Mobile Development", "Cloud Architecture"],
+  currentlyLearning: ["Swift & SwiftUI", "Python & Django", "Node.js & MongoDB"],
+  askMeAbout: ["React", "Angular", "Vue", "Python", "Flutter", "Node.js", "Swift", "Kotlin"],
+  funFact: "I love integrating AI tools into my projects! 🤖"
+};
+```
+
+## 💼 Tech Stack
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Mobile Development
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### AI & Machine Learning
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguelAngelGutierrezMaya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAngelGutierrezMaya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelAngelGutierrezMaya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/MiguelAngelGutierrezMaya/rag-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelAngelGutierrezMaya&repo=rag-system&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/MiguelAngelGutierrezMaya/ai_provider">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelAngelGutierrezMaya&repo=ai_provider&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/MiguelAngelGutierrezMaya/hex-architecture-node-js">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelAngelGutierrezMaya&repo=hex-architecture-node-js&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/MiguelAngelGutierrezMaya/portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelAngelGutierrezMaya&repo=portfolio&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+## 🎯 Current Focus
+
+- 🔭 Working on AI-powered applications and MCP integrations
+- 🌱 Deepening knowledge in iOS development with Swift
+- 🤖 Exploring RAG systems and embeddings with PostgreSQL & S3
+- 📱 Building cross-platform mobile applications
+- ☁️ Implementing serverless architectures with Cloudflare Workers
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelAngelGutierrezMaya&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+## 🎓 Certifications & Learning
+
+- 🚀 Continuous learner on Platzi, Udemy, and various online platforms
+- 💡 Focus on Clean Architecture and Design Patterns
+- 🧠 AI/ML implementations and best practices
+- 📱 iOS Academy courses for mobile development
+
+## 💡 Fun Facts
+
+- ⚡ I integrate AI tools in most of my projects
+- 🎨 I care deeply about UI/UX and clean code
+- 🌍 Based in beautiful Valle del Cauca, Colombia
+- 🔧 Love experimenting with new technologies and frameworks
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MiguelAngelGutierrezMaya&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/code.webp?alt=media&token=adb707f0-a00a-405c-817a-61be29b00f8a" width="30" />
+  <p><i>"Clean code always looks like it was written by someone who cares."</i></p>
+  <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/handshake.gif?alt=media&token=5cb4a4f8-25b7-4ae8-860a-b6a15ae6f23b" width="35" />
+</div>
+
+<div align="center">
+  <sub>💙 Open to collaboration and new opportunities!</sub>
+</div>
