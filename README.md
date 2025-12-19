@@ -1,4 +1,4 @@
-# Hi there, I'm Miguel Angel 👋
+# Hi there, I'm Miguel Angel
 
 <div align="center">
   <img src="https://firebasestorage.googleapis.com/v0/b/favourites-c9f9a.appspot.com/o/hello.webp?alt=media&token=da2e5c08-9b3a-4ba4-9b22-605274e12cbd" alt="Hello" width="50"/>
